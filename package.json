@@ -1,0 +1,18 @@
+{
+  "name": "buyer_site",
+  "version": "1.0.0",
+  "main": "paystack.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Lemuel Quaye",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.6"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
